@@ -1,0 +1,28 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Distribution directories
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.*
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+.parse-result.json
