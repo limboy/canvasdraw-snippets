@@ -21,7 +21,7 @@ const command = args[0];
 const routes = {
   '/': (req, res) => {
     let snippets = fs.readdirSync("./snippets");
-    snippets = snippets.map(filename => `<li><a href="https://canvasdraw.limboy.me/render/http://${hostname}:${port}/snippets?filename=${filename}">${filename}</a></li>`);
+    snippets = snippets.filter(file => file.endsWith('.js')).map(filename => `<li><a href="https://canvasdraw.limboy.me/render/http://${hostname}:${port}/snippets?filename=${filename}">${filename}</a></li>`);
     let html = `
     <html>
       <style>
