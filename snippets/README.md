@@ -2,6 +2,8 @@
 
 #### [circle-packing.js](circle-packing.js)
 <a href="https://canvasdraw.limboy.me/render/S1gbu7tMnmy" target="_blank"><img src="https://canvasdraw.limboy.me/render/S1gbu7tMnmy.png" width="200" /></a>
+#### [fingerprint.js](fingerprint.js)
+<a href="https://canvasdraw.limboy.me/render/NCsA5M89TqJ" target="_blank"><img src="https://canvasdraw.limboy.me/render/NCsA5M89TqJ.png" width="200" /></a>
 #### [hypnotic-squares.js](hypnotic-squares.js)
 <a href="https://canvasdraw.limboy.me/render/8VGHyi1nLM_8" target="_blank"><img src="https://canvasdraw.limboy.me/render/8VGHyi1nLM_8.png" width="200" /></a>
 #### [joy-division.js](joy-division.js)
